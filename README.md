@@ -9,5 +9,7 @@ The complete smarthome consist of the following optional devices:
     3. Server modules 
     4. Wireless Bind-Modem
     
-The main board runs NectoG protocol
-The server module
+>The main board runs NectoG protocol
+>The server module runs Bindalert protocols which communicate with Bind-Terminal, Bind-Modem, and mobile devices
+>Wall mounted Bind-Terminal is mounted inside the entrance of your home.
+>Bind-Modem is used to send alerts to neighbouring homes.
